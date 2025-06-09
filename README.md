@@ -26,3 +26,12 @@ Challenge your luck, strategize your moves, and see if you can become the ultima
 - CSS
 
 ---
+
+### Acknowledgements
+
+This project was created following the FreeCodeCamp course:  
+[Learn Basic JavaScript by Building a Role-Playing Game](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-basic-javascript-by-building-a-role-playing-game/step-173).
+
+Big thanks to FreeCodeCamp for providing the awesome tutorials and guidance!
+
+---
